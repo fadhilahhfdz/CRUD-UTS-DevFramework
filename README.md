@@ -10,10 +10,10 @@
 ## UTS Development Framework
 
 Nama Anggota kelompok :
-Candra Aldi Kuncoro      22.01.4786
-Amri Fahrizal Shiddiq    22.01.4736
-Pandu Setia Darmawan     22.01.4743
-Fadhilah Hafidz Pradana  22.01.4769
+<li>Candra Aldi Kuncoro      22.01.4786</li>
+<li>Amri Fahrizal Shiddiq    22.01.4736</li>
+<li>Pandu Setia Darmawan     22.01.4743</li>
+<li>Fadhilah Hafidz Pradana  22.01.4769</li>
 
 Beberapa fitur yang tersedia :
 <li>Login & Register</li>
