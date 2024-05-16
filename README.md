@@ -46,13 +46,21 @@ Konfigurasi file .env
 DB_CONNECTION=sqlite
 # DB_HOST=127.0.0.1
 # DB_PORT=3306
-DB_DATABASE=../database/database.sqlite
+DB_DATABASE=database/database.sqlite
 # DB_USERNAME=root
 # DB_PASSWORD=
 ```
 Migrate database
 ```bash
 php artisan migrate
+```
+Ubah path database di file .env
+```bash
+DB_DATABASE=../database/database.sqlite
+```
+Generate key
+```bash
+php artisan key:generate
 ```
 Menjalankan Aplikasi
 ```bash
